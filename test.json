@@ -1,0 +1,12 @@
+[
+    {
+        "no": 1,
+        "no_rekening": "Elika",
+        "nama_nasabah": "Abraham",
+        "alamat_nasabah": "Yogyakarta",
+        "cabang": "Janti",
+        "transaksi_tanggal": "2020-12-12",
+        "keterangan": "TRANSFER E-BANKING",
+        "saldo": "300000"
+    }
+]
